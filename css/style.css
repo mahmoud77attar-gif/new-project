@@ -811,7 +811,7 @@ footer {
         background: linear-gradient(103.63deg, #B5FFE7 1.83%, #FDC1C1 98.92%);
         justify-content: center;       
         border-radius: 0;
-        margin: 0;
+        margin-top: 70px;
 
         .sec3 {
             justify-self: center;
