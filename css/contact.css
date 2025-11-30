@@ -194,7 +194,14 @@ nav {
                 }
             }
         }
+ .map {
+            max-width: 350px;
+            height: 357px;
+            border: radius 0px;            
+            margin: 0;
 
+
+        }
     }
 }
 
