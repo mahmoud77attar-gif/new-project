@@ -194,14 +194,7 @@ nav {
                 }
             }
         }
- .map {
-            max-width: 350px;
-            height: 357px;
-            border: radius 0px;            
-            margin: 0;
 
-
-        }
     }
 }
 
@@ -412,8 +405,9 @@ footer {
         }
     }
 
-    .contact {
+    .contact1 {
         flex-direction: column;
+
 
         .info {
             h1 {
@@ -439,8 +433,7 @@ footer {
         .map {
             max-width: 350px;
             height: 357px;
-            border: radius 0px;
-            ;
+            border: radius 0px;            
             margin: 0;
 
 
