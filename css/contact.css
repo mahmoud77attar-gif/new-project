@@ -406,6 +406,7 @@ footer {
     }
 
     .contact1 {
+        margin-top:70px;
         flex-direction: column;
 
 
@@ -435,8 +436,6 @@ footer {
             height: 357px;
             border: radius 0px;            
             margin: 0;
-
-
         }
     }
 
