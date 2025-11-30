@@ -844,7 +844,7 @@ footer {
             }
 
             .btns {
-                margin-left: -40px;
+                /* margin-left: ; */
                 align-content: center;
                 align-items: center;
                 justify-self: center;
