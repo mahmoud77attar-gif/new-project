@@ -792,11 +792,12 @@ footer {
 
         .btn2 {
             display: block;
-            margin:20px 70px 70px 120px;
-            
             justify-content: center;
             align-items: center;
             text-align: center;
+            margin-left: 120px;
+            margin-top: 20px;
+            margin-bottom: 70px;
             font-family: Jost;
             font-weight: 500;
             font-size: 18px;
