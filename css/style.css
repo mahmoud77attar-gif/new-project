@@ -791,12 +791,12 @@ footer {
             }
         }
 
-        .btn2 {
+          .btn2 {
             display: block;
             justify-content: center;
             align-items: center;
             text-align: center;
-            margin-left: 90px;
+            margin-left: 120px;
             margin-top: 20px;
             margin-bottom: 70px;
             font-family: Jost;
@@ -806,10 +806,10 @@ footer {
     }
 
     .LearnPress {
-        /* max-width: 920px; */
+       max-width: 920px;
         height: 400px;
         background: linear-gradient(103.63deg, #B5FFE7 1.83%, #FDC1C1 98.92%);
-        justify-content: center;       
+        justify-content: center;
         border-radius: 0;
         margin: 0;
 
@@ -843,9 +843,9 @@ footer {
                 justify-self: center;
             }
 
-            .btns {
-                margin-left: 20px;
-                align-self: center;
+           .btns {
+                margin-left: -40px;
+                align-content: center;
                 align-items: center;
                 justify-self: center;
 
